@@ -10,10 +10,15 @@ El sistema debe tener un modo de autentificación por el cual el usuario pueda r
 Se realizo con: 
 
 1.CSS para darle algunos estilos a las páginas.
-2.Html para crear la vista de la aplicación web 
+
+2.Html para crear la vista de la aplicación web.
+
 3.JavaScript para definir los comportamientos que tiene la aplicación web.
+
 4.LocalStorage para almacenar los datos del usuario locamente.
+
 5.Bootstrap para el diseño de la aplicación web.
+
 
 Eso es todo gracias por leerme.
 
