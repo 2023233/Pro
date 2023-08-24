@@ -2,9 +2,7 @@
 Proyecto de aplicación web
 
 Hola que tal 
-Es una aplicación web que cumple con la
-
-siguiente funcionalidad.
+Es una aplicación web que cumple con la siguiente funcionalidad.
 
 El sistema debe tener un modo de autentificación por el cual el usuario pueda registrarse
 
