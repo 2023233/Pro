@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Búsqueda y Edición de Usuarios</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body>
+    <div class="container">
+        <h1 class="mt-5">Búsqueda y Edición de Usuarios</h1>
+
+        <form id="searchForm" class="mt-4">
+            <div class="form-group">
+                <label for="searchEmail">Buscar por Correo Electrónico:</label>
+                <input type="email" id="searchEmail" class="form-control" required>
+            </div>
+            <button type="submit" class="btn btn-primary">Buscar Usuario</button>
+        </form>
+
+        <div id="searchResults" class="mt-4"></div>
+    </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <script src="js/actualizar.js"></script>
+</body>
+
+</html>
