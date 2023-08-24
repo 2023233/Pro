@@ -3,15 +3,12 @@ Proyecto de aplicación web
 
 Hola que tal.
 
-Es una aplicación web que cumple con la siguiente funcionalidad.
+Es una aplicación web que cumple con la siguiente funcionalidad:
 
-El sistema debe tener un modo de autentificación por el cual el usuario pueda registrarse
+El sistema debe tener un modo de autentificación por el cual el usuario pueda registrarse o iniciar sesión en caso de que cuente con un registro, además de poder actualizar su contraseña.
 
-o iniciar sesión en caso de que cuente con un registro, además de poder actualizar su
+Se realizo con: 
 
-contraseña.
-
-Se realizo con:
 1.CSS para darle algunos estilos a las páginas.
 2.Html para crear la vista de la aplicación web 
 3.JavaScript para definir los comportamientos que tiene la aplicación web.
