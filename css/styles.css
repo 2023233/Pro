@@ -13,7 +13,10 @@
 
 body {
     font-family: var(--font-mono);
-
+    background-image: url("../ele.avif");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 
 }
 
@@ -68,7 +71,7 @@ section form input {
     border-radius: 9px;
     border: none;
     outline-color: #003DFF;
-    background-color: #eee;
+    background-color: antiquewhite;
 }
 
 section form input[type='submit'] {
@@ -136,7 +139,6 @@ section p a {
     text-decoration: none;
     color: #003DFF;
 }
-
 
 /* Home */
 
